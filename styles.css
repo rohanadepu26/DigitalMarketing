@@ -197,6 +197,7 @@
 
 .checkbox-container label{
     font-size: 14px;
+    display: contents;
     color: #616678;
 }
 
